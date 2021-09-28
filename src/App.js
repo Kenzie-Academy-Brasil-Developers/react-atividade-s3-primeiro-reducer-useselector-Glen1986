@@ -1,5 +1,5 @@
 import './App.css';
-import FruitsPage from './pages/fruitPages';
+import FruitsPage from './components/Display';
 
 function App() {
   return (
